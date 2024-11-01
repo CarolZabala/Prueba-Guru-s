@@ -35,7 +35,5 @@ Preguntas:
 Suposiciones:
 - Personas que viajan/viajan mucho lo utilizarían
 - Esta primera parte de la interfaz sería enfocando en una integración con las aerolíneas para poder ofrecer un real valor para el usuario.
-- Pensando que personas que viajan normalmente compran un seguro viaje, en la propria app puede abrir como una opción para proponer un seguro viaje.
-- No todas la aerolíneas tienen ese tipo de integración, y eso nos abre un otro campo de descubierta, porque tambien se podría proponer para las aerolíneas
-  sin esa integración, para que podamos hacer una API. Así tendríamos interactividad con más aerolíneas para entregar un producto más completo
-  para nuestros usuarios.
+- Como segunda parte: ensando que personas que viajan normalmente compran un seguro viaje, en la propria app puede abrir como una opción para proponer un seguro viaje.
+- Como una tercera parte: No todas la aerolíneas tienen ese tipo de integración, y eso nos abre un otro campo de descubierta, porque tambien se podría proponer para las aerolíneas sin esa integración, para que podamos hacer una API. Así tendríamos interactividad con más aerolíneas para entregar un producto más completo para nuestros usuarios.
